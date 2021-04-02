@@ -11,7 +11,17 @@ TODO
 
 TODO
 
-## Usage
+### Software requirements
+
+- Logisim-Evolution
+- Java
+
+### Installation
+
+* Step 1
+* Step 2
+
+### Usage
 
 [to edit...]
 
@@ -26,13 +36,3 @@ Hazme saber tus comentarios 😄
 ¡Thank you for considering contributing to the project! 
 
 Feel free to create [a new issue](https://github.com/lmendev/Controlador-pantalla-logisim/issues) with detailed explanation please
-
-## Software requirements
-
-- Logisim-Evolution
-- Java
-
-## Installation
-
-* Step 1
-* Step 2
