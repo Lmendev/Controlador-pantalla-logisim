@@ -3,9 +3,9 @@ Controlador de pantalla LED de 32 bits en Logisim
 
 ![project spotlight image](.assets/spotlight.gif)
 
-## Acerca de Controlador Pantalla Logisim
+## Acerca del proyecto
 
-TODO
+Sistema simple que interactúa con una pantalla LED de 32 x 32 bits
 
 ## Try the project
 
