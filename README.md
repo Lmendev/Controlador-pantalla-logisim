@@ -25,11 +25,11 @@ TODO
 
 [to edit...]
 
-## Contributing
+## Contribuir
 
-¡Thank you for considering contributing to the project! 
+¡Gracias por considerar contribuir al proyecto! 
 
-Feel free to create [a new issue](https://github.com/lmendev/Controlador-pantalla-logisim/issues) with detailed explanation please
+Siéntete libre de [crear un nuevo problema](https://github.com/lmendev/Controlador-pantalla-logisim/issues) con toda la información detallada
 
 ## Contáctame
 Hazme saber tus comentarios 😄
