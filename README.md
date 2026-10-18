@@ -1,3 +1,5 @@
+> ⏸️ **En pausa.** Desarrollo pausado temporalmente. Controlador de una pantalla LED de 32 bits diseñado en Logisim. Ver también el [procesador MIPS en Logisim](https://github.com/Lmendev/Procesador-MIPS-logisim).
+
 # Controlador Pantalla Logisim
 Controlador de pantalla LED de 32 bits en Logisim
 
